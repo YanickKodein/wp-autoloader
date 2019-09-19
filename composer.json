@@ -1,0 +1,17 @@
+{
+    "name": "martin-pettersson/wp-autoloader",
+    "description": "A class loader for WordPress coding standards",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Martin Pettersson",
+            "email": "martin_pettersson@outlook.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+             "src/class-wp-autoloader.php"
+        ]
+    },
+    "require": {}
+}
